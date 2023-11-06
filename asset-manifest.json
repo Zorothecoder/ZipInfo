@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZipInfo/static/css/main.decd0cd7.css",
+    "main.js": "/ZipInfo/static/js/main.53df301c.js",
+    "static/js/787.e6090112.chunk.js": "/ZipInfo/static/js/787.e6090112.chunk.js",
+    "index.html": "/ZipInfo/index.html",
+    "main.decd0cd7.css.map": "/ZipInfo/static/css/main.decd0cd7.css.map",
+    "main.53df301c.js.map": "/ZipInfo/static/js/main.53df301c.js.map",
+    "787.e6090112.chunk.js.map": "/ZipInfo/static/js/787.e6090112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decd0cd7.css",
+    "static/js/main.53df301c.js"
+  ]
+}
